@@ -3,8 +3,8 @@ package controller
 import (
 	"github.com/gin-gonic/gin"
 
-	"micro-me/application/common/baseresponse"
-	"micro-me/application/userserver/logic"
+	"micro-im/application/common/baseresponse"
+	"micro-im/application/userserver/logic"
 )
 
 type (

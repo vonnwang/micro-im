@@ -4,11 +4,11 @@ import (
 	"context"
 	"time"
 
-	"micro-me/application/common/baseerror"
-	"micro-me/application/common/config"
-	"micro-me/application/gateway/models"
-	"micro-me/application/imserver/protos"
-	"micro-me/application/userserver/protos"
+	"micro-im/application/common/baseerror"
+	"micro-im/application/common/config"
+	"micro-im/application/gateway/models"
+	"micro-im/application/imserver/protos"
+	"micro-im/application/userserver/protos"
 )
 
 type (

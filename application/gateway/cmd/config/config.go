@@ -1,6 +1,6 @@
 package config
 
-import "micro-me/application/common/config"
+import "micro-im/application/common/config"
 
 type (
 	ApiConfig struct {

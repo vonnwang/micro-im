@@ -7,9 +7,9 @@ import (
 
 	"github.com/micro/go-micro/broker"
 
-	"micro-me/application/common/baseerror"
-	"micro-me/application/imserver/protos"
-	"micro-me/application/imserver/server"
+	"micro-im/application/common/baseerror"
+	"micro-im/application/imserver/protos"
+	"micro-im/application/imserver/server"
 )
 
 type (

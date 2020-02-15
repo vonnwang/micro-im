@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"micro-me/application/userserver/models"
-	userpb "micro-me/application/userserver/protos"
+	"micro-im/application/userserver/models"
+	userpb "micro-im/application/userserver/protos"
 )
 
 type (

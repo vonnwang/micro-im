@@ -1,4 +1,4 @@
-module micro-me
+module micro-im
 
 go 1.12
 

@@ -6,8 +6,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"gopkg.in/go-playground/validator.v8"
 
-	"micro-me/application/common/baseerror"
-	"micro-me/application/common/i18n"
+	"micro-im/application/common/baseerror"
+	"micro-im/application/common/i18n"
 )
 
 func ParamError(ctx *gin.Context, err interface{}) {

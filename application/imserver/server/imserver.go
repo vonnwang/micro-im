@@ -11,7 +11,7 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/micro/go-micro/broker"
 
-	"micro-me/application/common/baseerror"
+	"micro-im/application/common/baseerror"
 )
 
 type (

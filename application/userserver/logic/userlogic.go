@@ -8,9 +8,9 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/satori/go.uuid"
 
-	"micro-me/application/common/baseerror"
-	"micro-me/application/common/middleware"
-	"micro-me/application/userserver/models"
+	"micro-im/application/common/baseerror"
+	"micro-im/application/common/middleware"
+	"micro-im/application/userserver/models"
 )
 
 type (

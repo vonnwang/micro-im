@@ -16,13 +16,13 @@ import (
 	"github.com/micro/go-plugins/registry/etcdv3"
 	"github.com/micro/go-plugins/wrapper/breaker/hystrix"
 
-	"micro-me/application/common/middleware"
-	gateWayConfig "micro-me/application/gateway/cmd/config"
-	"micro-me/application/gateway/controller"
-	"micro-me/application/gateway/logic"
-	"micro-me/application/gateway/models"
-	imProto "micro-me/application/imserver/protos"
-	"micro-me/application/userserver/protos"
+	"micro-im/application/common/middleware"
+	gateWayConfig "micro-im/application/gateway/cmd/config"
+	"micro-im/application/gateway/controller"
+	"micro-im/application/gateway/logic"
+	"micro-im/application/gateway/models"
+	imProto "micro-im/application/imserver/protos"
+	"micro-im/application/userserver/protos"
 )
 
 func main() {

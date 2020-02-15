@@ -13,10 +13,10 @@ import (
 	"github.com/micro/go-plugins/broker/rabbitmq"
 	"github.com/micro/go-plugins/registry/etcdv3"
 
-	imConfig "micro-me/application/imserver/cmd/config"
-	proto "micro-me/application/imserver/protos"
-	"micro-me/application/imserver/rpcserveriml"
-	"micro-me/application/imserver/server"
+	imConfig "micro-im/application/imserver/cmd/config"
+	proto "micro-im/application/imserver/protos"
+	"micro-im/application/imserver/rpcserveriml"
+	"micro-im/application/imserver/server"
 )
 
 func main() {

@@ -15,10 +15,10 @@ import (
 	"github.com/micro/go-plugins/registry/etcdv3"
 	"github.com/micro/go-plugins/wrapper/ratelimiter/ratelimit"
 
-	userRpcConfig "micro-me/application/userserver/cmd/config"
-	"micro-me/application/userserver/models"
-	userpb "micro-me/application/userserver/protos"
-	"micro-me/application/userserver/rpcserverimpl"
+	userRpcConfig "micro-im/application/userserver/cmd/config"
+	"micro-im/application/userserver/models"
+	userpb "micro-im/application/userserver/protos"
+	"micro-im/application/userserver/rpcserverimpl"
 )
 
 func main() {

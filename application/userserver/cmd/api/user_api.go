@@ -13,10 +13,10 @@ import (
 	"github.com/micro/go-micro/web"
 	"github.com/micro/go-plugins/registry/etcdv3"
 
-	userConfig "micro-me/application/userserver/cmd/config"
-	"micro-me/application/userserver/controller"
-	"micro-me/application/userserver/logic"
-	"micro-me/application/userserver/models"
+	userConfig "micro-im/application/userserver/cmd/config"
+	"micro-im/application/userserver/controller"
+	"micro-im/application/userserver/logic"
+	"micro-im/application/userserver/models"
 )
 
 func main() {

@@ -11,7 +11,7 @@ import (
 	"github.com/micro/go-micro/registry"
 	"github.com/micro/go-plugins/registry/etcdv3"
 
-	proto "micro-me/protos"
+	proto "micro-im/protos"
 )
 
 type MyClientWrapper struct {

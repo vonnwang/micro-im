@@ -12,8 +12,8 @@ import (
 	"github.com/micro/go-plugins/broker/rabbitmq"
 	"github.com/micro/go-plugins/registry/etcdv3"
 
-	imConfig "micro-me/application/imserver/cmd/config"
-	"micro-me/application/imserver/server"
+	imConfig "micro-im/application/imserver/cmd/config"
+	"micro-im/application/imserver/server"
 )
 
 func main() {

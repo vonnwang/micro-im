@@ -4,8 +4,8 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 
-	"micro-me/application/common/baseerror"
-	"micro-me/application/common/baseresponse"
+	"micro-im/application/common/baseerror"
+	"micro-im/application/common/baseresponse"
 )
 
 var (

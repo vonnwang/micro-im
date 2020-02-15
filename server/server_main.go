@@ -18,7 +18,7 @@ import (
 	"github.com/micro/go-plugins/transport/grpc"
 	"github.com/micro/go-plugins/wrapper/ratelimiter/ratelimit"
 
-	hello "micro-me/protos"
+	hello "micro-im/protos"
 )
 
 type Say struct {
