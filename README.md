@@ -1,4 +1,4 @@
-# micro-me
+# micro-im
 
 ### 分步式IM通信 架构图
 
